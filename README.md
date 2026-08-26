@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I’m Sifat Hakim 👋
 
-<!--
-**sifathakim2522/sifathakim2522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+I’m a Computer Science & Engineering student with a strong interest in **Artificial Intelligence, Machine Learning, Cybersecurity, and Software Engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and continuously improving my technical and programming skills.
+
+---
+
+## 🧠 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Generative AI & Large Language Models
+- Cybersecurity
+- Software Engineering
+- Full-Stack Development
+- Data Structures & Algorithms
+- Cloud Computing
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**  
+Python • C++ • JavaScript • SQL
+
+**Development**  
+React • Node.js • Express.js • MongoDB • PostgreSQL
+
+**AI / ML**  
+Python • TensorFlow • Machine Learning • Generative AI • Large Language Models
+
+**Tools**  
+Git • GitHub • VS Code • Postman
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Generative AI
+- Data Structures & Algorithms
+- Cybersecurity
+- Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
+- Portfolio: [Your Portfolio]
+
+---
+
+### ⚡ Always learning. Always building. Always improving.
