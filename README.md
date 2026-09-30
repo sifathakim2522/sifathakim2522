@@ -1,57 +1,22 @@
-# Hi, I’m Sifat Hakim 👋
+# Sifat Hakim
 
-### Computer Science & Engineering Student
+Computer Science & Engineering student building web applications and exploring AI integration.
 
-I’m a Computer Science & Engineering student with a strong interest in **Artificial Intelligence, Machine Learning, Cybersecurity, and Software Engineering**.
+My projects focus on React interfaces, Node.js APIs, and the fundamentals behind reliable software. I also use C++ to explore operating-system algorithms.
 
-I enjoy learning new technologies, solving problems, and continuously improving my technical and programming skills.
+## Selected projects
 
----
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| [AI UGC Generator](https://github.com/sifathakim2522/ai-ugc-generator) | Prompt-based short-video studio; development prototype | React, TypeScript, Express, fal.ai |
+| [E-commerce Website](https://github.com/sifathakim2522/E-Commerce_Website) | Storefront, administration, and commerce APIs | React, Node.js, MongoDB |
+| [Inventory Management](https://github.com/sifathakim2522/inventory-management-website) | Products, suppliers, categories, and orders | React, Express, MongoDB |
+| [CPU Scheduling Simulator](https://github.com/sifathakim2522/CPU-Scheduling-Simulator-) | Scheduling algorithms, metrics, and terminal Gantt charts | C++ |
 
-## 🧠 Areas of Interest
+## Current focus
 
-- Artificial Intelligence & Machine Learning
-- Generative AI & Large Language Models
-- Cybersecurity
-- Software Engineering
-- Full-Stack Development
-- Data Structures & Algorithms
-- Cloud Computing
+- Building and documenting full-stack applications.
+- Learning how to integrate AI services into useful products.
+- Strengthening data structures, algorithms, and software engineering fundamentals.
 
----
-
-## 🛠️ Technologies & Tools
-
-**Languages**  
-Python • C++ • JavaScript • SQL
-
-**Development**  
-React • Node.js • Express.js • MongoDB • PostgreSQL
-
-**AI / ML**  
-Python • TensorFlow • Machine Learning • Generative AI • Large Language Models
-
-**Tools**  
-Git • GitHub • VS Code • Postman
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Generative AI
-- Data Structures & Algorithms
-- Cybersecurity
-- Software Engineering
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
-- Portfolio: [Your Portfolio]
-
----
-
-### ⚡ Always learning. Always building. Always improving.
+Project READMEs include setup instructions and current limitations. These repositories document my ongoing learning and development work.
